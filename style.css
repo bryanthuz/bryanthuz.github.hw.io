@@ -1,0 +1,97 @@
+body {
+  color: #777;
+  background-color: #777;
+  width: 960px;
+  font-size: 18px;
+}
+header {
+    /* border: 25px solid; */
+    padding: 25px;
+    /* margin: 25px; */
+    text-align: center;
+    font-size: 18px;
+    background: #ebebeb
+  }
+
+  nav {
+    /* border: 25px solid; */
+     padding: 25px; 
+    /* margin: 25px; */
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+  }
+
+  section {
+    width: 495px;
+    border: 25px solid;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    font-size: 18px;
+    /* position: absolute; */
+    background: #ebebeb;
+  }
+
+  article {
+    /* width: 300px;
+    border: 25px solid;
+    padding: 25px;
+    margin: 25px; */
+    text-align: center;
+    font-size: 18px; 
+    color: #ebebeb;
+    background: #777;
+  }
+
+  aside {
+    width: 400px;
+    border: 25px solid; 
+    padding: 25px; 
+    margin: 25px;
+    text-align: center;
+    font-size: 18px;
+    float: right;
+    height: 140px;
+    background: #ebebeb
+  }
+
+  footer {
+    /* border: 25px solid; */
+   padding: 25px;
+    /* margin: 25px; */
+    text-align: center;
+    font-size: 18px;
+    background: #ebebeb
+  }
+
+  h3 {
+    font-size: 18px;
+    background: #ebebeb;
+    color: #777;
+  }
+
+  p {
+    font-size: 18px;
+    background: #ebebeb;
+    color: #777;
+  }
+
+    /* #section {
+      width: 100px;
+      height: 100px;
+      background: none;
+      position: relative;
+      margin: 50px;
+
+    }
+
+    #section #article {
+      position: absolute;
+      width: 50%;
+      height: 50%;
+      background: none;
+      left: 25%;
+      top: 25%;
+    } */
+
